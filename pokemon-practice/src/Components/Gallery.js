@@ -1,3 +1,5 @@
+
+
 function Gallery({ data }) {
     const display = data.map(pokemon => {
         return (
